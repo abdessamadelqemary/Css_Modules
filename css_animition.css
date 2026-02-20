@@ -1,0 +1,41 @@
+body 
+{
+    background:#222;
+}
+div
+{
+    height: 100px;
+    width: 100px;
+    background: red;
+   animation-name: square;
+   animation-duration:3s;
+   rotate: 0;
+   animation-iteration-count: 3;
+}
+@keyframes square {
+   0% {
+     translate: 0 0;
+     background: red;
+     rotate: 0deg;
+   }
+   25% {
+    translate: 0 500px;
+    background-color: aqua;
+    rotate: 90deg;
+   }
+   50% {
+    translate:400px 500px ;
+    background-color: blueviolet;
+    rotate: 180deg;
+   }
+   75% {
+    translate: 400px 0;
+     background-color: chartreuse;
+     rotate: 270deg;
+   }
+   100% {
+    translate: 0 0;
+    background-color: red;
+    rotate: 360deg;
+   }
+}

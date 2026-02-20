@@ -1,0 +1,12 @@
+.parents 
+{
+    background: red;
+    padding : 10px;
+    display: grid;
+    grid-template-columns:100px 100px 100px 100px;
+}
+.parents div
+{
+    background: yellow;
+
+}

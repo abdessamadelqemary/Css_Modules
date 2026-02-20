@@ -1,0 +1,12 @@
+p {
+    color: red;
+}
+.test1 {
+    font-size: 10px;
+}
+.test2 {
+    font-size: 20px;
+}
+.test3 {
+    font-size: x-large;
+}

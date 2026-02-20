@@ -1,0 +1,15 @@
+
+/*
+ 
+1 _ [attr] 
+2 _ element[att]
+3 _ [attr =" value]
+4 _ element[att = "value]
+5 _ [attr^= :value] start whit
+
+*/
+
+[placeholder] 
+{
+ background: red;
+}

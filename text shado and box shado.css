@@ -1,0 +1,19 @@
+/*
+
+ text-shadow: h-shadow : v-shadow blue
+ 01 jnb
+ 02 lt7t
+ 03 tbaba 3la lktaba
+  text shadow khasa ri b les textes safi
+
+  box-shadow : h-shadow v-shqdow- blue spread color inset
+  insit hiya mn l dakhl dik chi
+
+*/
+ div {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    box-shadow:  0px 0 10px 0 blue;
+    
+ }

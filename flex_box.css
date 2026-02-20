@@ -1,0 +1,21 @@
+.parents {
+    background: gold;
+    padding: 10px;
+    display: flex ;
+}
+.parents {
+    padding: 10px;
+    margin: 10px;
+}
+.item1 {
+    background:green ;
+}
+.item2 {
+    background: red;
+}
+.item3 {
+    background: blue;
+}
+.item4 {
+  background: violet;
+}

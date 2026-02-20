@@ -1,0 +1,16 @@
+th {
+    background-color: aqua;
+}
+td {
+    background-color: brown;
+}
+table {
+     background: #0f94d7;
+     height: 40px;
+
+}
+td {
+    background: #0895ad;
+    height: 40px;
+    text-align: center;
+}

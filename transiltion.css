@@ -1,0 +1,16 @@
+div
+ {
+    height:30px;
+    width:80px;
+    background: red;
+    color: white;
+    transition:all 1s;
+
+}
+div:hover
+{
+   width: 100%;
+   height: 400px;
+   background: blue;
+   color :  yellow;
+}

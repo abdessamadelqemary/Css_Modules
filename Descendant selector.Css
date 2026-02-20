@@ -1,0 +1,19 @@
+h1 {
+    color: blue;
+}
+p {
+    color: black;
+    font-size: 15px;
+    font-weight: 100;
+}
+.test {
+    color: black;
+    color: red;
+
+}
+div p strong {
+    color: aqua;
+}
+h2 strong{
+    color: aqua;
+}

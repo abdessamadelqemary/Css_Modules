@@ -1,0 +1,9 @@
+div {
+    height: 100px;
+    width: 200px;
+    background: aqua;
+
+    transform: translate(0 , 0)
+    transform  scale(.1)
+    transform scaleX(.5)
+}
